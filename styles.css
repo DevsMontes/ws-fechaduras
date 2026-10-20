@@ -121,3 +121,5 @@ dialog{color:var(--navy);background:var(--paper);border:0;padding:0;width:min(96
  .dialog-photo img{padding:8px 20px;height:180px}
  .dialog-photo button{position:static;margin-left:auto;min-height:32px;padding:6px 10px}
 }
+
+.montes-credit{text-align:center;padding-top:28px;font-size:11px;letter-spacing:.06em;color:#a8afba}.montes-credit span{color:#d1d6de}
